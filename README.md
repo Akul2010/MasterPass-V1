@@ -1,4 +1,4 @@
-# PassVault-V1
+# MasterPass-V1
 
 Video showing all the features of v1
 https://www.youtube.com/watch?v=JKC57xMiMSQ
